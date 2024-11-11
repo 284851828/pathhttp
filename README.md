@@ -19,10 +19,10 @@ linux 下 运行 ./ph
 ![目录下所有文件](https://github.com/284851828/pathhttp/blob/main/other/step_mp4.png)
 
 浏览图片
-![目录下所有文件](https://github.com/284851828/pathhttp/blob/main/other/step_mp4.png)
+![目录下所有文件](https://github.com/284851828/pathhttp/blob/main/other/step_img.png)
 
 浏览文本
-![目录下所有文件](https://github.com/284851828/pathhttp/blob/main/other/step_mp4.png)
+![目录下所有文件](https://github.com/284851828/pathhttp/blob/main/other/step_txt.png)
 
 下载资料
 
@@ -32,6 +32,6 @@ linux 下 运行 ./ph
 
 ### 如果好用，请打赏支持开发及推荐给你们的朋友
 二维码
-![随意打赏](https://github.com/284851828/pathhttp/blob/main/other/weichat_pay.jpg)
-<img src="https://github.com/284851828/pathhttp/blob/main/other/weichat_pay.jpg" alt="随意打赏" width="200" height="250" />
+<!-- ![随意打赏](https://github.com/284851828/pathhttp/blob/main/other/weichat_pay.jpg) -->
+<img src="https://github.com/284851828/pathhttp/blob/main/other/weichat_pay.jpg" alt="随意打赏" width="400" height="500" />
 
