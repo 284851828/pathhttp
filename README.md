@@ -28,10 +28,10 @@ linux 下 运行 ./ph
 
 
 ### 下载：
-https://github.com/284851828/pathhttp/blob/main/ph
-[windows  下载](https://github.com/284851828/pathhttp/blob/main/ph.exe)
 
-[linux 下载](https://github.com/284851828/pathhttp/blob/main/ph)
+[windows  下载](https://github.com/284851828/pathhttp/raw/refs/heads/main/ph.exe)
+
+[linux 下载](https://github.com/284851828/pathhttp/raw/refs/heads/main/ph)
 
 
 
