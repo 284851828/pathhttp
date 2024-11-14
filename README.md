@@ -28,9 +28,9 @@ linux 下 运行 ./ph
 
 ### 下载：
 
-[windows  下载](http://www.bangnikanzhe.com/download/ph.zip)
+[windows  下载](http://www.bangnikanzhe.com/download/ph.zip)  鼠标右键   "另存为.."
 
-[linux 下载](http://www.bangnikanzhe.com/download/ph)
+[linux 下载](http://www.bangnikanzhe.com/download/ph) 鼠标右键   "另存为.."
 
 
 
